@@ -1,74 +1,103 @@
 # E-commerce Product Catalog
 
-A responsive product catalog built with Vite, React, TypeScript, Tailwind CSS, and Redux Toolkit. It fetches products from an API, includes live search, sorting, pagination, and supports dark mode.
+A modern, responsive product catalog built using **Vite**, **React**, **TypeScript**, **Tailwind CSS**, and **Redux Toolkit**. This application fetches products from an API and features live search, sorting, pagination, and dark mode.
 
-## Live Demo
+### 🌐 [Live Demo](https://ecommerce-catalog-smoky.vercel.app/)
 
-[E-commerce Catalog](https://ecommerce-catalog-smoky.vercel.app/)
+---
 
-## Features
+## 🚀 Features
 
-- **Responsive Design:** Grid layout on desktop, single-column on mobile.
-- **Live Search:** Filter products by name in real-time.
-- **Sorting:** Sort products by price or rating.
-- **Pagination:** Navigate through product pages.
-- **Dark Mode:** Toggle between light and dark themes.
-- **Unit Testing:** Tests for critical components with Jest.
+- **Responsive Design**:  
+  Adapts seamlessly with a grid layout on desktop and a single-column layout on mobile devices.
 
-## Installation
+- **Live Search**:  
+  Quickly filter products by name in real time.
+
+- **Sorting**:  
+  Sort products by price or rating to find the best match.
+
+- **Pagination**:  
+  Smooth navigation between pages of products.
+
+- **Dark Mode**:  
+  Toggle between light and dark themes for a personalized experience.
+
+- **Unit Testing**:  
+  Comprehensive testing of critical components using Jest.
+
+---
+
+## 🛠 Installation and Setup
 
 ### Prerequisites
 
-- Node.js (v14 or above)
-- npm
+- **Node.js** (v14 or above)  
+- **npm**
 
 ### Clone the Repository
 
 ```bash
 git clone https://github.com/rupammahato/ecommerce-catalog.git
 cd ecommerce-catalog
+```
 
-Install Dependencies
+### Install Dependencies
 
+```bash
 npm install
+```
 
-Run the Application Locally
+### Run the Application Locally
 
+```bash
 npm run dev
+```
 
-Open http://localhost:5173 in your browser to view the app.
+Open the app in your browser at: [http://localhost:5173](http://localhost:5173)
 
-Deployment
+---
 
-The application is deployed on Vercel. You can access the live demo here.
+## 🛠 Deployment
 
-Testing
+The application is deployed on **Vercel**. Check out the live demo here:  
+[Live Demo](https://ecommerce-catalog-smoky.vercel.app/)
 
-Run unit tests using:
+---
 
+## ✅ Testing
+
+Run unit tests using the following command:  
+
+```bash
 npm run test
+```
 
-Technologies Used
+---
 
-Vite - Frontend build tool
+## 🛠 Technologies Used
 
-React - UI library
+- **Vite**: Fast and modern frontend build tool.  
+- **React**: A powerful JavaScript library for building user interfaces.  
+- **TypeScript**: Adds type safety to JavaScript for enhanced code reliability.  
+- **Tailwind CSS**: Utility-first CSS framework for styling.  
+- **Redux Toolkit**: Simplified state management.  
+- **Axios**: Efficient HTTP client for API requests.  
+- **Jest & React Testing Library**: Robust testing frameworks.
 
-TypeScript - Typed JavaScript
+---
 
-Tailwind CSS - Utility-first CSS framework
+## 🤝 Contributing
 
-Redux Toolkit - State management
+Contributions are welcome!  
+Feel free to open an issue or submit a pull request to suggest improvements.
 
-Axios - HTTP client
+---
 
-Jest & React Testing Library - Testing frameworks
+## 📄 License
 
+This project is licensed under the **MIT License**.  
 
-Contributing
+---
 
-Contributions are welcome! Please open an issue or submit a pull request.
-
-License
-
-MIT
+Let’s build something amazing together! 🎉
