@@ -4,7 +4,7 @@ A responsive product catalog built with Vite, React, TypeScript, Tailwind CSS, a
 
 ## Live Demo
 
-[https://your-deployed-url.vercel.app](https://your-deployed-url.vercel.app)
+[E-commerce Catalog](https://ecommerce-catalog-smoky.vercel.app/)
 
 ## Features
 
