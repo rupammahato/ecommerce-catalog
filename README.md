@@ -25,7 +25,7 @@ A responsive product catalog built with Vite, React, TypeScript, Tailwind CSS, a
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ecommerce-catalog.git
+git clone https://github.com/rupammahato/ecommerce-catalog.git
 cd ecommerce-catalog
 
 Install Dependencies
